@@ -1,1 +1,2 @@
 # TP1
+i have two copies untitled10 is the code in the tp paper witht he modfication optimizer adam and a way to adjust the accuracy because it was not looking good, the price estimated was so low compared to the real price but by using the early stopping it help to get a better accuracy , for the tp with my own code it what i learn from the machine learning course with add on the deep learing method like layers etc i dont know if its right in term of cleaning the data but i gives a better accuracy than the other percode built
